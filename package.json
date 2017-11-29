@@ -1,0 +1,33 @@
+{
+    "author": "Stanivision Inc.",
+    "dependencies": {},
+    "keywords": [],
+    "name": "standing",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable"
+        ],
+        "displayName": "Standing - Keep things in order",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "KEY_LAT": 0,
+            "KEY_LONG": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1806b49f-e6b5-4fbe-ad1e-5f9606011164",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

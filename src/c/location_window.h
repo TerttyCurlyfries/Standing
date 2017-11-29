@@ -1,0 +1,1 @@
+void show_location_window(char* title);
